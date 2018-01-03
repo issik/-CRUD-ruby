@@ -3,5 +3,5 @@ ruby'2.3.1'
 
 gem 'json', '9.11.3'
 gem 'httparty','0.15.6'
-gem 'pry' , '9.11.3'
+gem 'pry', '9.11.3'
 
